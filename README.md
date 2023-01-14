@@ -3,4 +3,4 @@ This is an ***Anime Recommendation System*** that is implemented through various
 
 ## The dataset for this recommender system can be downloaded from:
 
-`[Anime Dataset with Reviews - MyAnimeList]`(https://pages.github.com/](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=animes.csv)
+[Anime Dataset with Reviews - MyAnimeList](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=animes.csv)
