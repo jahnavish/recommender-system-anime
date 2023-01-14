@@ -6,4 +6,6 @@ In this recommender system, we require **two** datasets, ***'animes.csv'*** and 
 ### The datasets for this recommender system can be downloaded from here:
 
 
-[Animes.csv](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=animes.csv) [Reviews.csv](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=reviews.csv)
+[Animes.csv](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=animes.csv) 
+
+[Reviews.csv](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=reviews.csv)
