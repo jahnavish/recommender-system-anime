@@ -3,6 +3,6 @@ This is an ***Anime Recommendation System*** that is implemented through various
 
 In this recommender system, we require **two** datasets, ***'animes.csv'*** and ***'reviews.csv'*** which can be downloaded from the link provided below:
 
-#### The dataset for this recommender system can be downloaded from:
+### The dataset for this recommender system can be downloaded from:
 
 [Anime Dataset with Reviews - MyAnimeList](https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews?resource=download&select=animes.csv)
